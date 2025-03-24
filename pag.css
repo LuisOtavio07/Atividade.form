@@ -1,0 +1,46 @@
+.nav {
+    background-color: #1a75ff;
+    justify-content: center;
+    gap: 15px;
+    height: 50px;
+}
+
+.text {
+    color: #ffffff; 
+    padding: 10px;
+}
+
+form {
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #004d99; 
+}
+
+button {
+    color: #ffffff;
+    background-color: #1a75ff; 
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#ata, #welcome {
+    color: #004d99; 
+    font-size: 36px;
+}
+
+p {
+    color: #333333; 
+}
+
+#ok, #intro {
+    background-color: #e6f7ff; 
+    color: #004d99;
+    padding: 10px;
+    border-radius: 5px;
+}
